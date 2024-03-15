@@ -4,10 +4,10 @@
     "url": "https://uh-datalab.odbx.science",
     "icon": "https://icons.duckduckgo.com/ip3/uh-datalab.odbx.science.ico",
     "slug": "datalab-uh",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 580,
@@ -15,14 +15,16 @@
     "timeWeek": 600,
     "timeMonth": 580,
     "timeYear": 580,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-15": 1
+    }
   },
   {
     "name": "Datalab UH (API)",
     "url": "https://uh-datalab-api.odbx.science",
     "icon": "https://icons.duckduckgo.com/ip3/uh-datalab-api.odbx.science.ico",
     "slug": "datalab-uh-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 510,
     "timeMonth": 507,
     "timeYear": 507,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-15": 0
+    }
   }
 ]
