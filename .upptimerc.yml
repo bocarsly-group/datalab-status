@@ -10,7 +10,7 @@ sites:
     url: https://uh-datalab.odbx.science
     maxResponseTime: 10000
   - name: Datalab UH (API)
-    url: https://uh-datalab-api.odbx.science
+    url: https://uh-datalab-api.odbx.science/healthcheck/is_ready
     maxResponseTime: 10000
   - name: Datalab UH 2
     url: https://uh-datalab2.odbx.science
