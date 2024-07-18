@@ -6,19 +6,13 @@ assignees: # Users to assign downtime issues (optional)
   - jdbocarsly
 
 sites:
-  - name: Datalab UH
-    url: https://uh-datalab.odbx.science
+  - name: Datalab
+    url: https://datalab.bocarslygroup.com
     maxResponseTime: 10000
-  - name: Datalab UH (API)
-    url: https://uh-datalab-api.odbx.science/healthcheck/is_ready
+  - name: Datalab API
+    url: https://datalab-api.bocarslygroup.com/healthcheck/is_ready
     maxResponseTime: 10000
-  - name: Datalab UH 2
-    url: https://uh-datalab2.odbx.science
-    maxResponseTime: 10000
-  - name: Datalab UH 2 (API)
-    url: https://uh-datalab-api2.odbx.science
-    maxResponseTime: 10000
-
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
