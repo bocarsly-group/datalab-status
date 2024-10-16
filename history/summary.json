@@ -4,7 +4,7 @@
     "url": "https://datalab.bocarslygroup.com",
     "icon": "https://icons.duckduckgo.com/ip3/datalab.bocarslygroup.com.ico",
     "slug": "datalab",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,14 +15,16 @@
     "timeWeek": 167,
     "timeMonth": 160,
     "timeYear": 161,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-16": 0
+    }
   },
   {
     "name": "Datalab API",
     "url": "https://datalab-api.bocarslygroup.com/healthcheck/is_ready",
     "icon": "https://icons.duckduckgo.com/ip3/datalab-api.bocarslygroup.com.ico",
     "slug": "datalab-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 145,
     "timeMonth": 154,
     "timeYear": 162,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-16": 0
+    }
   }
 ]
