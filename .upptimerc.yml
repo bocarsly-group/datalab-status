@@ -12,6 +12,8 @@ sites:
   - name: Datalab API
     url: https://datalab-api.bocarslygroup.com/healthcheck/is_ready
     maxResponseTime: 10000
+  - name: Magnets
+    url: https://magnets.bocarslygroup.com
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
