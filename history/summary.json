@@ -36,12 +36,12 @@
     "uptime": "99.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.82%",
+    "uptimeMonth": "99.22%",
     "uptimeYear": "99.66%",
     "time": 170,
     "timeDay": 62,
     "timeWeek": 213,
-    "timeMonth": 229,
+    "timeMonth": 197,
     "timeYear": 170,
     "dailyMinutesDown": {
       "2025-07-28": 340,
@@ -55,5 +55,23 @@
       "2024-11-05": 25,
       "2024-10-16": 28
     }
+  },
+  {
+    "name": "Magnets",
+    "url": "https://magnets.bocarslygroup.com",
+    "icon": "https://icons.duckduckgo.com/ip3/magnets.bocarslygroup.com.ico",
+    "slug": "magnets",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 178,
+    "timeDay": 178,
+    "timeWeek": 178,
+    "timeMonth": 178,
+    "timeYear": 178,
+    "dailyMinutesDown": {}
   }
 ]
