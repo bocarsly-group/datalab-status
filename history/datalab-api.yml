@@ -1,7 +1,7 @@
 url: https://datalab-api.bocarslygroup.com/healthcheck/is_ready
 status: up
 code: 200
-responseTime: 215
-lastUpdated: 2026-04-16T23:32:42.459Z
+responseTime: 223
+lastUpdated: 2026-04-17T23:31:19.704Z
 startTime: 2024-07-18T16:52:14.837Z
 generator: Upptime <https://github.com/upptime/upptime>
